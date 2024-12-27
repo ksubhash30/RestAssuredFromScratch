@@ -1,0 +1,26 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "department": "Engineering",
+      "skills": ["Java", "Python", "SQL"],
+      "address": {
+        "city": "New York",
+        "zipcode": "10001",
+        "street": "123 Main St"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "department": "Marketing",
+      "skills": ["Marketing Strategy", "Social Media", "Content Creation"],
+      "address": {
+        "city": "Los Angeles",
+        "zipcode": "90001",
+        "street": "456 Elm St"
+      }
+    }
+  ]
+}
